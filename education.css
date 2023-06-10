@@ -1,0 +1,54 @@
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  overflow: hidden;
+  background-color:#DDA0DD;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:#4B0082;
+  text-align: center;
+  padding: 10px 42.5px;
+  text-decoration: none;
+  font-size: 25
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:#FAEBD7;
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  color: black;
+  font-size:20px;
+  background-color:#F0FFF0;
+
+}
+
+th {
+  background-color:#FFE4E1;
+  color: black;
+
+}
+footer {
+  text-align: center;
+  padding: 2px;
+  background-color:#B0C4DE;
+  color: black;
+  font-size: 13px;
+}
